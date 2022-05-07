@@ -1,0 +1,1 @@
+# SM-R870N-Default-App-Remover
