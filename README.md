@@ -5,6 +5,8 @@ Appa by Samsung
 
 ----------------------------------------------------------------------------------------------------
 
+메세지 .\adb shell pm uninstall --user 0 com.samsung.android.messaging
+
 빅스비 .\adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
 
 ----------------------------------------------------------------------------------------------------
